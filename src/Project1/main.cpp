@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-d
-=======
-ab
->>>>>>> parent of dd7313b (abc)
+#include <iostream>
+
+int main()
+{
+	std::cout << "revert ÀÌÀü";
+}
