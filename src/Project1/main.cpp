@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "revert 이전";
+	std::cout << "revert 이후";
 }
